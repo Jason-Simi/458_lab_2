@@ -16,5 +16,8 @@
 
 **vi** Nothing stand out to me as incredibly different that expected other than the youtuber in the Bay Area. This however could be due to this individual posting many videos labeling as "Bay Area"
 
+
 ![Bay Area Wordcloud](bay-area-1.png)
+[Download Bay Area, CA Search Data (CSV)](bay-area-1-search.csv)
 ![Richmond Virginia Wordcloud](richmond-virginia-1.png)
+[Download Richmond, Virginia Search Data (CSV)](richmond-virginia-2-search.csv)
