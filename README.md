@@ -20,4 +20,4 @@
 ![Bay Area Wordcloud](bay-area-1.png)
 [Download Bay Area, CA Search Data (CSV)](bay-area-1-search.csv)
 ![Richmond Virginia Wordcloud](richmond-virginia-1.png)
-<a href="https://github.com/Jason-Simi/458_lab_2/raw/main/richmond-virginia-2-search.csv" download>Download Richmond, Virginia Search Data (CSV)</a>
+[Download Richmond, Virginia Search Data (CSV)](richmond-virginia-2-search.csv)
